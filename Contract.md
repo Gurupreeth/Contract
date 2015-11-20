@@ -1,4 +1,4 @@
-# Contract
+﻿# Contract
 
 ## Terms and definitions
 
@@ -13,6 +13,7 @@
   Ltd.
 
 ## About this document
+gdhdhgdgdg
 
 I’m really excited that we’re at the stage where we’re signing contracts; it
 means that we’re a great fit both professionally and personally (I like working
